@@ -1,0 +1,6 @@
+{
+  "name": "Academic Precision - German Higher Ed Admission & ECTS Intelligence",
+  "description": "High-velocity intelligence platform for international postgraduates: ECTS credit mapping, Bavarian formula GPA conversion, APS verification tracking, and uni-assist admissions clearance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
